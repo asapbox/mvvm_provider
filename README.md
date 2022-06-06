@@ -1,4 +1,4 @@
 # mvvm_provider
 
-Simple Audio Player app built on MVVM architecture approach 
+A simple audio player app built on MVVM architecture approach 
 with Provider as a state manager.
